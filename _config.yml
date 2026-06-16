@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "-"
 title_separator          : "-"
 name                     : &name "Chengyuan Wang"
-description              : &description "Research for global forestry sustainable development"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Master"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ChengyuanW.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,8 @@ author:
   location         : "Harbin, China"
   employer         : "Northeast Forestry University"
   uri              : # URL
-  email            : "chengyuanwang@nefu.edu.cn; chengyuanwang@aliyun.com" 
+  email-School     : "chengyuanwang@nefu.edu.cn"
+  email-Person     : "chengyuanwang@aliyun.com"
 
   # Academic websites
   academia         : # URL
@@ -42,7 +43,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Chengyuan-Wang-13?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
