@@ -16,16 +16,22 @@ Education
 
 Academic experience
 ======
-* 2025.08-Now        Assistant Editor, International Journal of Sustainable Development and World Ecology 
+* 2025.08-Now        Assistant Manager Editor, International Journal of Sustainable Development and World Ecology 
 * 2023.09-Now        Assistant Manager, Future Forestry Lab, College of Forestry, Northeast Forestry University
-* 2024.09-2024.10      Assistant Teacher, Remote Sensing Image Processing, Northeast Forestry University
+* 2024.09-2024.10    Assistant Teacher, Remote Sensing Image Processing, Northeast Forestry University
+
 
 Publications
 ======
 2026
 ======
-1.	Wang, C., Liu, Y., Liu, H., Sun, X., Wang, E., Mao, X., ... & Wu, Y. (2026). Intervention effects of different forest management measures on forest degradation and improvement in Northeast Asia. Resources, Conservation and Recycling, 108641. (JCR Q1, IF2024=10.9).
-2.	Barabara, J. J., Liu, Z., Tian, Z., Liu, H., Mohamedi, F. J., Wang, T., Wang, C., & Mao, X. (2026). Spatial and temporal patterns and driving factors of carbon in green great wall project, Africa. Journal of Arid Environments, 232, 105493. (JCR Q2, IF2025=2.5).
+1. Wang, C., Liu, Y., Liu, H., Sun, X., Wang, E., Mao, X., ... & Wu, Y. (2026). Intervention effects of different forest management measures on forest degradation and improvement in Northeast Asia. Resources, Conservation and Recycling, 108641. (JCR Q1, IF2024=10.4). https://doi.org/10.1016/j.resconrec.2025.108641 
+2. Wang, C., Liu, Y., Sun, X., Wu Y., Wang, E., Mao, X., ... & Yao, Y. (2026). Integrating development equity and landscape patterns to enhance the alignment between nighttime lighting and sustainable development goals, Humanities and Social Sciences Communications. ((JCR Q1, IF2024=4.8). https://doi.org/10.1057/s41599-026-07143-w 
+3. Liu, Z., Wang, C., Tian, Z., Wang, T., Ding, L., Liu, H., ... & Mao, X. (2026). Synergies Within and Potential Barriers to Global Forest Sustainable Development. Sustainable Development.(JCR Q1, IF2025=9.3). https://doi.org/10.1002/sd.70735 
+4. Sun, X., Wu, Y., Shi, C., Zhang, Z., Wang, C., & Dang, Q. (2026). Global meta-analysis of neonicotinoid degradation in agricultural systems: Influence of environmental media and biological treatment strategies. Journal of Environmental Management, 411, 130199. (JCR Q1, IF2025=9.2), https://doi.org/10.1016/j.jenvman.2026.130199 
+5. Ding, L., Wang, L., Wang, C., Liu, H., Fan, Q., Liu, Y., ... & Mao, X. (2026). Forest-rich but poverty-prone: causal evidence from China on the paradox of ‘denser forest, deeper poverty’. International Journal of Sustainable Development & World Ecology. (JCR Q1, IF2025=6.8). https://doi.org/10.1080/13504509.2026.2657566 
+6. Barabara, J. J., Liu, Z., Tian, Z., Liu, H., Mohamedi, F. J., Wang, T., Wang, C., & Mao, X. (2026). Spatial and temporal patterns and driving factors of carbon in green great wall project, Africa. Journal of Arid Environments, 232, 105493. (JCR Q2, IF2025=2.5). https://doi.org/10.1016/j.jaridenv.2025.105493
+
 
 2025
 ======
@@ -53,18 +59,22 @@ Talks
 ======
 1. Chengyuan Wang. Scientific Paper Writing and Submitting, College of Forestry, Northeast Forestry University, December, 2025, Harbin, China.
 2. Chengyuan Wang. How to exploring and increasing the knowledge and innovation in academic writing, Invite Report and Academic Communication, Department of Forest Management and Geographic Technology, College of Forestry, Shanxi Agriculture University, November, 2025, Taigu, China.
-3. Xiaofan Sun, Chengyuan Wang, Weizhao Fan, Yaqin Ji, Xuegang Mao. Coupling Mechanisms and Threshold Calculations for Forest Improvement/Degradation and Carbon-Water Use Efficiency in Northeast Asia, The 3rd National College Students’ Ecological Environment Management Research and Innovation Competition, Report, September, 2025, Nyingchi, China. (Chengyuan Wang do report in this meeting).
-4. Shichao Jiang, Chengyuan Wang, Ruiheng Liu, Sen Zhang, Zhengjun Cai, Xuegang Mao. Pixel-Based Synthesis of Medium Spatial Resolution Remote Sensing Images, Meeting Report, The 17th Annual China Student Innovation Conference, Report, November, 2024, Chengdu, China. (Chengyuan Wang do report in this meeting).
+3. Chengyuan Wang, Zian Liu, Yuan Liu, Mingze Li, Wenyi Fan, Guofan Shao, Enheng Wang, Xuegang Mao. A Multidimensional Framework for Assessing Human–Forest Coupling Sustainability Under Climate Stability. The III European (Local) Public Innovation Conference. Oral, May, 2026, Mirandela, Portugal.
+4. Xiaofan Sun, Chengyuan Wang, Weizhao Fan, Yaqin Ji, Xuegang Mao. Coupling Mechanisms and Threshold Calculations for Forest Improvement/Degradation and Carbon-Water Use Efficiency in Northeast Asia, The 3rd National College Students’ Ecological Environment Management Research and Innovation Competition, Oral, September, 2025, Nyingchi, China. (Chengyuan Wang do report in this meeting).
+5. Shichao Jiang, Chengyuan Wang, Ruiheng Liu, Sen Zhang, Zhengjun Cai, Xuegang Mao. Pixel-Based Synthesis of Medium Spatial Resolution Remote Sensing Images, Meeting Report, The 17th Annual China Student Innovation Conference, Oral, November, 2024, Chengdu, China. (Chengyuan Wang do report in this meeting).
+
 
 Research Project
 ======
-1.	Ministry of Science and Technology, National Key Research and Development Program, 2023YFD2201704, Forest Resources Data Annual Update Technology with Multi-source Data Collaboration, 2023-12 to 2027-11, RMB 2,800,000, Participation, Main Declare, Under Research.
-2.	Ministry of Science and Technology, National Key Research and Development Program, 2021YFD150070505, Evaluation of the Degree of Erosion and Productivity of Agricultural Land in Black Soil, 2021-12 to 2024-11, RMB 800,000, Participation, Completion.
-3.	National Natural Science Foundation of China, National Natural Science Foundation, 32371863, Mechanisms and Characterization of Coupling Forest Horizontal Spatial Structure and Spatial Resolution of Remote Sensing Images, 2024-01 to 2027-12, RMB 500,000, Participation, Under Research.
-4.	Northeast Forestry University, Northeast Forestry University Carbon Neutral Special Science Fund Project, Hotspots and Thresholds of Eco-Efficiency of Black Soil Cultivated Land Utilization under Carbon Emission Constraints, 2024-01 to 2025-12, RMB 300,000, Participation, Main Declare, Under Research.
+1. Ministry of Heilongjiang Province Science and Technology, Heilongjiang Natural Science Foundation, PL2025C032, Coupling Mechanism Between Sustainable Forest Management and Sustainable Development in Forest Areas Under the Context of Natural Forest Logging Ban, 2026-01 to 2028-12, RMB 100,000, Participation, Main Declare, Under Research.
+2. Ministry of Science and Technology, National Key Research and Development Program, 2023YFD2201704, Forest Resources Data Annual Update Technology with Multi-source Data Collaboration, 2023-12 to 2027-11, RMB 2,800,000, Participation, Main Declare, Under Research.
+3. National Natural Science Foundation of China, National Natural Science Foundation, 32371863, Mechanisms and Characterization of Coupling Forest Horizontal Spatial Structure and Spatial Resolution of Remote Sensing Images, 2024-01 to 2027-12, RMB 500,000, Participation, Under Research.
+4. Northeast Forestry University, Northeast Forestry University Carbon Neutral Special Science Fund Project, Hotspots and Thresholds of Eco-Efficiency of Black Soil Cultivated Land Utilization under Carbon Emission Constraints, 2024-01 to 2025-12, RMB 300,000, Participation, Main Declare, Completion,
+5. Ministry of Science and Technology, National Key Research and Development Program, 2021YFD150070505, Evaluation of the Degree of Erosion and Productivity of Agricultural Land in Black Soil, 2021-12 to 2024-11, RMB 800,000, Participation, Completion.
+
 
 Service and leadership
 ======
-* As journal Assistant Editor in International Journal of Sustainable Development and World Ecology (JCR Q1, IF=7.7).
-* As journal reviewer in Sustainable Cities and Society, Sustainable Development, Journal of Cleaner Production, Cities, Journal of Environmental Management, Ecological Indicators, Humanities and Social Sciences Communications, Ecological Informatics, Regional Sustainability, Sustainable Futures, Clean Technologies and Environmental Policy, Growth and Change, Discover Sustainability, Discover Geography.
+* As journal Assistant Manager Editor in International Journal of Sustainable Development and World Ecology (JCR Q1, IF=6.8).
+* As journal reviewer in Sustainable Cities and Society, Sustainable Development, Journal of Cleaner Production, Scientific Data, Cities, Journal of Environmental Management, Ecological Indicators, Carbon Banlance and Management, Growth and Change, Humanities and Social Sciences Communications, Ecological Informatics, Regional Sustainability, Sustainable Futures, Clean Technologies and Environmental Policy, Discover Sustainability, Discover Cities, Discover Geography.
 
