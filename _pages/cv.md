@@ -19,6 +19,7 @@ Academic experience
 * 2025.08-Now        Assistant Manager Editor, International Journal of Sustainable Development and World Ecology 
 * 2023.09-Now        Assistant Manager, Future Forestry Lab, College of Forestry, Northeast Forestry University
 * 2024.09-2024.10    Assistant Teacher, Remote Sensing Image Processing, Northeast Forestry University
+* 2026.03-2026.04    Assistant Teacher, Soil and Water Conversation Research, Northeast Forestry University
 
 
 Publications
@@ -35,24 +36,27 @@ Publications
 
 2025
 ======
-1.	Liu, Y., Wang, C., Han, B., Liu, Z., Wang, T., Tian, Z., ... & Chumachenkod, S. (2025). Optimization of resource management in vulnerable areas within the interconnected framework of ecosystem services supply and demand. Ecological Indicators, 171, 113235. (JCR Q1, IF2024=7.4).
-2.	Cui, S., Liu, J., Tian, Y., Chen, S., Hong, W., Liu, Z., Wang, C., ... & Shao, G. (2025). Explainable machine learning identifies anthropogenic activity as a key driver of forest fire severity in China's temperate monsoon region. GIScience & Remote Sensing, 62(1), 2599489. (JCR Q1, IF2024=6.9).
-3.	Yang, L., Wang, C., Liu, Y., Wang, T., Tian, Z., Ding, L., ... & Chumachenko, S. (2025). The change pattern and spatiotemporal transition of land use carbon emissions in China's Three-North Shelterbelt Program Region. Ecological Engineering, 219, 107680. (JCR Q1, IF2024=4.1).
-4.	Sun, X., Wang, C., Ji, Y., Dang, Q., Fu, Z., Mao, X., ... & Fan, W. (2025). Differential Urban-Rural Inequalities and Driving Mechanisms of PM2.5 Exposure in the Central Plains Urban Agglomeration, China. Remote Sensing, 17(17), 2982. (JCR Q1, IF2024=4.1).
-5.	Liu, Y., Wang, C., Wang, E., Mao, X., Feng, T., Yang, L., ... & Sergey, C. (2025). Trends and Controlling Factors of Vegetation Change in Different Regions of China. Chinese Geographical Science, 35(6), 1269-1282. (JCR Q2, IF2024=3.1).
+1. Tian, Z., Wang, C., Wang, T., Liu, Z., Ding, L., & Mao, X. (2025). Natural and anthropogenic influences on short-term forest growth status: Evidence and mechanisms from China. Journal of Environmental Management, 389, 126084. (JCR Q1, IF2024=8.4). https://doi.org/10.1016/j.jenvman.2025.126084
+2. Liu, Y., Wang, C., Han, B., Liu, Z., Wang, T., Tian, Z., ... & Chumachenkod, S. (2025). Optimization of resource management in vulnerable areas within the interconnected framework of ecosystem services supply and demand. Ecological Indicators, 171, 113235. (JCR Q1, IF2024=7.4). https://doi.org/10.1016/j.ecolind.2025.113235
+3. Cui, S., Liu, J., Tian, Y., Chen, S., Hong, W., Liu, Z., Wang, C., ... & Shao, G. (2025). Explainable machine learning identifies anthropogenic activity as a key driver of forest fire severity in China's temperate monsoon region. GIScience & Remote Sensing, 62(1), 2599489. (JCR Q1, IF2024=6.9). https://doi.org/10.1080/15481603.2025.2599489
+4. Yang, L., Wang, C., Liu, Y., Wang, T., Tian, Z., Ding, L., ... & Chumachenko, S. (2025). The change pattern and spatiotemporal transition of land use carbon emissions in China's Three-North Shelterbelt Program Region. Ecological Engineering, 219, 107680. (JCR Q1, IF2024=4.1). https://doi.org/10.1016/j.ecoleng.2025.107680
+5. Sun, X., Wang, C., Ji, Y., Dang, Q., Fu, Z., Mao, X., ... & Fan, W. (2025). Differential Urban-Rural Inequalities and Driving Mechanisms of PM2.5 Exposure in the Central Plains Urban Agglomeration, China. Remote Sensing, 17(17), 2982. (JCR Q1, IF2024=4.1). https://doi.org/10.3390/rs17172982
+6. Liu, Y., Wang, C., Wang, E., Mao, X., Feng, T., Yang, L., ... & Sergey, C. (2025). Trends and Controlling Factors of Vegetation Change in Different Regions of China. Chinese Geographical Science, 35(6), 1269-1282. (JCR Q2, IF2024=3.1). https://doi.org/10.1007/s11769-025-1568-4
+
 
 2024
 ======
-1.	Wang, C., Liu, S., Feng, T., Liu, Y., Liu, Y., Hu, Z., ... & Mao, X. (2024). Is the assessment approach of Sustainable Development Goal 11.3. 1 justified? Evidence from the drivers of future urban land use efficiency. Journal of Cleaner Production, 141147. (JCR Q1, IF2023=9.8).
-2.	Wang, C., Wang, L., Zhai, J., Feng, T., Lei, Y., Li, S., ... & Mao, X. (2024). Assessing progress toward China’s subnational sustainable development by Region Sustainable Development Index. Sustainable Horizons, 11, 100099 (JCR Q1, IF2023=7.7).
-3.	Cui, S., Liu, J., Tian, Y., Quan, Y., Wang, B., Li, M., Zhang, Y., Wang C., & Chang, Y. (2024). SSU-Net: A Model for Mapping Burned Areas Using Landsat-8 and Sentinel-2. IEEE Transactions on Geoscience and Remote Sensing. (JCR Q1, IF2023=7.5).
-4.	Liu, Y., Wang, C., Wang, E., Mao, X., Liu, Y., & Hu, Z. (2024). Raster Scale Farmland Productivity Assessment with Multi-Source Data Fusion—A Case of Typical Black Soil Region in Northeast China. Remote Sensing, 16(8), 1435. (JCR Q1, IF2023=4.2).
-5.	Liu, Y., Wang, C., Liu, Y., Feng, T., Wang, E., Yang, L., ... & Mao, X. (2024). Integrating Forest Ecosystem Services into Health Strategies to Improve Human Well-Being. Forests, 15(11), 1872. (JCR Q1, IF2023=2.4).
+1.	Wang, C., Liu, S., Feng, T., Liu, Y., Liu, Y., Hu, Z., ... & Mao, X. (2024). Is the assessment approach of Sustainable Development Goal 11.3. 1 justified? Evidence from the drivers of future urban land use efficiency. Journal of Cleaner Production, 141147. (JCR Q1, IF2023=9.8), https://doi.org/10.1016/j.jclepro.2024.141147 
+2.	Wang, C., Wang, L., Zhai, J., Feng, T., Lei, Y., Li, S., ... & Mao, X. (2024). Assessing progress toward China’s subnational sustainable development by Region Sustainable Development Index. Sustainable Horizons, 11, 100099 (JCR Q1, IF2023=7.7), https://doi.org/10.1016/j.horiz.2024.100099
+3.  Cui, S., Liu, J., Tian, Y., Quan, Y., Wang, B., Li, M., Zhang, Y., Wang C., & Chang, Y. (2024). SSU-Net: A Model for Mapping Burned Areas Using Landsat-8 and Sentinel-2. IEEE Transactions on Geoscience and Remote Sensing. (JCR Q1, IF2023=7.5). https://doi.org/10.1109/TGRS.2024.3457543
+4.	Liu, Y., Wang, C., Wang, E., Mao, X., Liu, Y., & Hu, Z. (2024). Raster Scale Farmland Productivity Assessment with Multi-Source Data Fusion—A Case of Typical Black Soil Region in Northeast China. Remote Sensing, 16(8), 1435. (JCR Q1, IF2023=4.2). https://doi.org/10.3390/rs16081435
+5.	Liu, Y., Wang, C., Liu, Y., Feng, T., Wang, E., Yang, L., ... & Mao, X. (2024). Integrating Forest Ecosystem Services into Health Strategies to Improve Human Well-Being. Forests, 15(11), 1872. (JCR Q1, IF2023=2.4). https://doi.org/10.3390/f15111872
+
 
 2023
 ======
-1.	Wang, C., Liu, S., Zhou, S., Zhou, J., Jiang, S., Zhang, Y., ... & Mao, X. (2023). Spatial-temporal patterns of urban expansion by land use/land cover transfer in China. Ecological Indicators, 155, 111009. (JCR Q1, IF2022=6.9).
-2.	Zhai, J., Wang, L., Liu, Y., Wang, C., & Mao, X. (2023). Assessing the effects of China’s Three-North Shelter Forest Program over 40 years. Science of The Total Environment, 857, 159354. (JCR Q1, IF2022=9.8, ESI 1% High-Cited Paper).
+1.	Wang, C., Liu, S., Zhou, S., Zhou, J., Jiang, S., Zhang, Y., ... & Mao, X. (2023). Spatial-temporal patterns of urban expansion by land use/land cover transfer in China. Ecological Indicators, 155, 111009. (JCR Q1, IF2022=6.9), https://doi.org/10.1016/j.ecolind.2023.111009 
+2.	Zhai, J., Wang, L., Liu, Y., Wang, C., & Mao, X. (2023). Assessing the effects of China’s Three-North Shelter Forest Program over 40 years. Science of The Total Environment, 857, 159354. (JCR Q1, IF2022=9.8, ESI 1% High-Cited Paper), https://doi.org/10.1016/j.scitotenv.2022.159354
 
   
 Talks
@@ -69,7 +73,7 @@ Research Project
 1. Ministry of Heilongjiang Province Science and Technology, Heilongjiang Natural Science Foundation, PL2025C032, Coupling Mechanism Between Sustainable Forest Management and Sustainable Development in Forest Areas Under the Context of Natural Forest Logging Ban, 2026-01 to 2028-12, RMB 100,000, Participation, Main Declare, Under Research.
 2. Ministry of Science and Technology, National Key Research and Development Program, 2023YFD2201704, Forest Resources Data Annual Update Technology with Multi-source Data Collaboration, 2023-12 to 2027-11, RMB 2,800,000, Participation, Main Declare, Under Research.
 3. National Natural Science Foundation of China, National Natural Science Foundation, 32371863, Mechanisms and Characterization of Coupling Forest Horizontal Spatial Structure and Spatial Resolution of Remote Sensing Images, 2024-01 to 2027-12, RMB 500,000, Participation, Under Research.
-4. Northeast Forestry University, Northeast Forestry University Carbon Neutral Special Science Fund Project, Hotspots and Thresholds of Eco-Efficiency of Black Soil Cultivated Land Utilization under Carbon Emission Constraints, 2024-01 to 2025-12, RMB 300,000, Participation, Main Declare, Completion,
+4. Northeast Forestry University, Northeast Forestry University Carbon Neutral Special Science Fund Project, Hotspots and Thresholds of Eco-Efficiency of Black Soil Cultivated Land Utilization under Carbon Emission Constraints, 2024-01 to 2025-12, RMB 300,000, Participation, Main Declare, Completion.
 5. Ministry of Science and Technology, National Key Research and Development Program, 2021YFD150070505, Evaluation of the Degree of Erosion and Productivity of Agricultural Land in Black Soil, 2021-12 to 2024-11, RMB 800,000, Participation, Completion.
 
 
