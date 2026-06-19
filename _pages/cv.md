@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in College of Forestry, Northeast Forestry University, Forestry Management, 2024.06-Now
-* B.S. in College of Forestry, Northeast Forestry University, Geography Information Science, 2020.09-2024.06
+* B.S. in College of Forestry, Northeast Forestry University, Geography Information Science, 2020.09-2024.06 
 
 Academic experience
 ======
