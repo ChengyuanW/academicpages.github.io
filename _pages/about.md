@@ -18,5 +18,11 @@ Google Scholar: https://scholar.google.com/citations?user=OBElfHEAAAAJ&hl=zh-CN
 Supervisor: Dr. Xuegang Mao, Dr. Enheng Wang.    
 ---
 
-
+Organization: Depart of Forest Management, College of Forestry, Northeast Forestry University   
+Address: 316, Forest Science Building, Linxing Street 4 Harbin, Heilongjiang, China.  
+Tel: (0086) 18502621119  
+Email: chengyuanwang@nefu.edu.cn chengyuanwang@aliyun.com   
+ORCID: https://orcid.org/0009-0006-8914-2807    
+Google Scholar: https://scholar.google.com/citations?user=OBElfHEAAAAJ&hl=zh-CN     
+Supervisor: Dr. Xuegang Mao, Dr. Enheng Wang.    
 
