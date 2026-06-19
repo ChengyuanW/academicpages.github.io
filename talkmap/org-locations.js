@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Coupling Mechanisms and Threshold Calculations for Forest Improvement/Degradation and Carbon-Water Use Efficiency in Northeast Asia<br />The 3rd National College Students\u2019 Ecological Environment Management Research and Innovation Meeting; Nyingchi, China",
+    29.5487912,
+    94.6384738
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Cultivating Scientific Thinking and Academic Growth in Frontier Research in Forestry<br />Invite lecture for College of forestry, Shanxi Agricultural University; Shanxi Agricultural University, Taigu, Jinzhong, China",
+    37.4228703,
+    112.5761338
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A Multidimensional Framework for Assessing Human\u2013Forest Coupling Sustainability Under Climate Stability<br />The III European (Local) Public Innovation Conference; Mirandela, Portugal",
+    41.489615,
+    -7.1774792
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Pixel-Based Synthesis of Medium Spatial Resolution Remote Sensing Images<br />The 17th Annual China Student Innovation Conference; Chengdu, China",
+    30.659867,
+    104.063315
   ]
 ];
