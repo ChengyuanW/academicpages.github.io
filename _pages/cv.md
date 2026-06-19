@@ -24,6 +24,7 @@ Academic experience
 
 Publications
 ======
+
 2026
 ======
 1. Wang, C., Liu, Y., Liu, H., Sun, X., Wang, E., Mao, X., ... & Wu, Y. (2026). Intervention effects of different forest management measures on forest degradation and improvement in Northeast Asia. Resources, Conservation and Recycling, 108641. (JCR Q1, IF2024=10.4). https://doi.org/10.1016/j.resconrec.2025.108641 
