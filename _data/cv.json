@@ -1,61 +1,80 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Chengyuan Wang",
+    "email": "your.email@example.com",
+    "phone": "(+0086) 18502621119",
+    "website": "https://ChengyuanW.github.io/academicpages.github.io",
+    "summary": "Researcher in Forestry Management, Geographic Information Science, and Sustainable Development.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Linxing 4th, Nangang, Harbin, Heilongjiang, China",
+      "postalCode": "150040",
+      "city": "Harbin",
+      "countryCode": "CN",
+      "region": "Heilongjiang"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ChengyuanW",
+        "url": "https://github.com/ChengyuanW"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "International Journal of Sustainable Development and World Ecology",
+      "position": "Assistant Manager Editor",
+      "website": "",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
+      "summary": "JCR Q1, IF=6.8",
+      "highlights": []
+    },
+    {
+      "company": "Future Forestry Lab, College of Forestry, Northeast Forestry University",
+      "position": "Assistant Manager",
+      "website": "",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Multiple Academic Journals",
+      "position": "Journal Reviewer",
+      "website": "",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": "Reviewer for Sustainable Cities and Society, Sustainable Development, Journal of Cleaner Production, Scientific Data, Cities, Journal of Environmental Management, Ecological Indicators, Carbon Balance and Management, Growth and Change, Humanities and Social Sciences Communications, Ecological Informatics, Regional Sustainability, Sustainable Futures, Clean Technologies and Environmental Policy, Discover Sustainability, Discover Cities, Discover Geography.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Northeast Forestry University",
+      "area": "Forestry Management",
+      "studyType": "M.S. in College of Forestry",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Northeast Forestry University",
+      "area": "Geography Information Science",
+      "studyType": "B.S. in College of Forestry",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +85,227 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Intervention effects of different forest management measures on forest degradation and improvement in Northeast Asia",
+      "publisher": "Resources, Conservation and Recycling, 108641",
+      "releaseDate": "2026-01-01",
+      "website": "https://doi.org/10.1016/j.resconrec.2025.108641",
+      "summary": "Wang, C., Liu, Y., Liu, H., Sun, X., Wang, E., Mao, X., ... & Wu, Y. (JCR Q1, IF2024=10.4)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Integrating development equity and landscape patterns to enhance the alignment between nighttime lighting and sustainable development goals",
+      "publisher": "Humanities and Social Sciences Communications",
+      "releaseDate": "2026-01-02",
+      "website": "https://doi.org/10.1057/s41599-026-07143-w",
+      "summary": "Wang, C., Liu, Y., Sun, X., Wu Y., Wang, E., Mao, X., ... & Yao, Y. (JCR Q1, IF2024=4.8)"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Synergies Within and Potential Barriers to Global Forest Sustainable Development",
+      "publisher": "Sustainable Development",
+      "releaseDate": "2026-01-03",
+      "website": "https://doi.org/10.1002/sd.70735",
+      "summary": "Liu, Z., Wang, C., Tian, Z., Wang, T., Ding, L., Liu, H., ... & Mao, X. (JCR Q1, IF2025=9.3)"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Global meta-analysis of neonicotinoid degradation in agricultural systems: Influence of environmental media and biological treatment strategies",
+      "publisher": "Journal of Environmental Management, 411, 130199",
+      "releaseDate": "2026-01-04",
+      "website": "https://doi.org/10.1016/j.jenvman.2026.130199",
+      "summary": "Sun, X., Wu, Y., Shi, C., Zhang, Z., Wang, C., & Dang, Q. (JCR Q1, IF2025=9.2)"
+    },
+    {
+      "name": "Forest-rich but poverty-prone: causal evidence from China on the paradox of 'denser forest, deeper poverty'",
+      "publisher": "International Journal of Sustainable Development & World Ecology",
+      "releaseDate": "2026-01-05",
+      "website": "https://doi.org/10.1080/13504509.2026.2657566",
+      "summary": "Ding, L., Wang, L., Wang, C., Liu, H., Fan, Q., Liu, Y., ... & Mao, X. (JCR Q1, IF2025=6.8)"
+    },
+    {
+      "name": "Spatial and temporal patterns and driving factors of carbon in green great wall project, Africa",
+      "publisher": "Journal of Arid Environments, 232, 105493",
+      "releaseDate": "2026-01-06",
+      "website": "https://doi.org/10.1016/j.jaridenv.2025.105493",
+      "summary": "Barabara, J. J., Liu, Z., Tian, Z., Liu, H., Mohamedi, F. J., Wang, T., Wang, C., & Mao, X. (JCR Q2, IF2025=2.5)"
+    },
+    {
+      "name": "Natural and anthropogenic influences on short-term forest growth status: Evidence and mechanisms from China",
+      "publisher": "Journal of Environmental Management, 389, 126084",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.jenvman.2025.126084",
+      "summary": "Tian, Z., Wang, C., Wang, T., Liu, Z., Ding, L., & Mao, X. (JCR Q1, IF2024=8.4)"
+    },
+    {
+      "name": "Optimization of resource management in vulnerable areas within the interconnected framework of ecosystem services supply and demand",
+      "publisher": "Ecological Indicators, 171, 113235",
+      "releaseDate": "2025-01-02",
+      "website": "https://doi.org/10.1016/j.ecolind.2025.113235",
+      "summary": "Liu, Y., Wang, C., Han, B., Liu, Z., Wang, T., Tian, Z., ... & Chumachenkod, S. (JCR Q1, IF2024=7.4)"
+    },
+    {
+      "name": "Explainable machine learning identifies anthropogenic activity as a key driver of forest fire severity in China's temperate monsoon region",
+      "publisher": "GIScience & Remote Sensing, 62(1), 2599489",
+      "releaseDate": "2025-01-03",
+      "website": "https://doi.org/10.1080/15481603.2025.2599489",
+      "summary": "Cui, S., Liu, J., Tian, Y., Chen, S., Hong, W., Liu, Z., Wang, C., ... & Shao, G. (JCR Q1, IF2024=6.9)"
+    },
+    {
+      "name": "The change pattern and spatiotemporal transition of land use carbon emissions in China's Three-North Shelterbelt Program Region",
+      "publisher": "Ecological Engineering, 219, 107680",
+      "releaseDate": "2025-01-04",
+      "website": "https://doi.org/10.1016/j.ecoleng.2025.107680",
+      "summary": "Yang, L., Wang, C., Liu, Y., Wang, T., Tian, Z., Ding, L., ... & Chumachenko, S. (JCR Q1, IF2024=4.1)"
+    },
+    {
+      "name": "Differential Urban-Rural Inequalities and Driving Mechanisms of PM2.5 Exposure in the Central Plains Urban Agglomeration, China",
+      "publisher": "Remote Sensing, 17(17), 2982",
+      "releaseDate": "2025-01-05",
+      "website": "https://doi.org/10.3390/rs17172982",
+      "summary": "Sun, X., Wang, C., Ji, Y., Dang, Q., Fu, Z., Mao, X., ... & Fan, W. (JCR Q1, IF2024=4.1)"
+    },
+    {
+      "name": "Trends and Controlling Factors of Vegetation Change in Different Regions of China",
+      "publisher": "Chinese Geographical Science, 35(6), 1269-1282",
+      "releaseDate": "2025-01-06",
+      "website": "https://doi.org/10.1007/s11769-025-1568-4",
+      "summary": "Liu, Y., Wang, C., Wang, E., Mao, X., Feng, T., Yang, L., ... & Sergey, C. (JCR Q2, IF2024=3.1)"
+    },
+    {
+      "name": "Is the assessment approach of Sustainable Development Goal 11.3.1 justified? Evidence from the drivers of future urban land use efficiency",
+      "publisher": "Journal of Cleaner Production, 141147",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1016/j.jclepro.2024.141147",
+      "summary": "Wang, C., Liu, S., Feng, T., Liu, Y., Liu, Y., Hu, Z., ... & Mao, X. (JCR Q1, IF2023=9.8)"
+    },
+    {
+      "name": "Assessing progress toward China’s subnational sustainable development by Region Sustainable Development Index",
+      "publisher": "Sustainable Horizons, 11, 100099",
+      "releaseDate": "2024-01-02",
+      "website": "https://doi.org/10.1016/j.horiz.2024.100099",
+      "summary": "Wang, C., Wang, L., Zhai, J., Feng, T., Lei, Y., Li, S., ... & Mao, X. (JCR Q1, IF2023=7.7)"
+    },
+    {
+      "name": "SSU-Net: A Model for Mapping Burned Areas Using Landsat-8 and Sentinel-2",
+      "publisher": "IEEE Transactions on Geoscience and Remote Sensing",
+      "releaseDate": "2024-01-03",
+      "website": "https://doi.org/10.1109/TGRS.2024.3457543",
+      "summary": "Cui, S., Liu, J., Tian, Y., Quan, Y., Wang, B., Li, M., Zhang, Y., Wang C., & Chang, Y. (JCR Q1, IF2023=7.5)"
+    },
+    {
+      "name": "Raster Scale Farmland Productivity Assessment with Multi-Source Data Fusion—A Case of Typical Black Soil Region in Northeast China",
+      "publisher": "Remote Sensing, 16(8), 1435",
+      "releaseDate": "2024-01-04",
+      "website": "https://doi.org/10.3390/rs16081435",
+      "summary": "Liu, Y., Wang, C., Wang, E., Mao, X., Liu, Y., & Hu, Z. (JCR Q1, IF2023=4.2)"
+    },
+    {
+      "name": "Integrating Forest Ecosystem Services into Health Strategies to Improve Human Well-Being",
+      "publisher": "Forests, 15(11), 1872",
+      "releaseDate": "2024-01-05",
+      "website": "https://doi.org/10.3390/f15111872",
+      "summary": "Liu, Y., Wang, C., Liu, Y., Feng, T., Wang, E., Yang, L., ... & Mao, X. (JCR Q1, IF2023=2.4)"
+    },
+    {
+      "name": "Spatial-temporal patterns of urban expansion by land use/land cover transfer in China",
+      "publisher": "Ecological Indicators, 155, 111009",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.1016/j.ecolind.2023.111009",
+      "summary": "Wang, C., Liu, S., Zhou, S., Zhou, J., Jiang, S., Zhang, Y., ... & Mao, X. (JCR Q1, IF2022=6.9)"
+    },
+    {
+      "name": "Assessing the effects of China’s Three-North Shelter Forest Program over 40 years",
+      "publisher": "Science of The Total Environment, 857, 159354",
+      "releaseDate": "2023-01-02",
+      "website": "https://doi.org/10.1016/j.scitotenv.2022.159354",
+      "summary": "Zhai, J., Wang, L., Liu, Y., Wang, C., & Mao, X. (JCR Q1, IF2022=9.8, ESI 1% High-Cited Paper)"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Scientific Paper Writing and Submitting",
+      "event": "College of Forestry, Northeast Forestry University",
+      "date": "2025-12-01",
+      "location": "Harbin, China",
+      "description": "Oral Presentation"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "How to exploring and increasing the knowledge and innovation in academic writing",
+      "event": "Invite Report and Academic Communication, Department of Forest Management and Geographic Technology, College of Forestry, Shanxi Agriculture University",
+      "date": "2025-11-01",
+      "location": "Taigu, China",
+      "description": "Oral Presentation"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "A Multidimensional Framework for Assessing Human–Forest Coupling Sustainability Under Climate Stability",
+      "event": "The III European (Local) Public Innovation Conference",
+      "date": "2026-05-01",
+      "location": "Mirandela, Portugal",
+      "description": "Oral Presentation"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Coupling Mechanisms and Threshold Calculations for Forest Improvement/Degradation and Carbon-Water Use Efficiency in Northeast Asia",
+      "event": "The 3rd National College Students’ Ecological Environment Management Research and Innovation Competition",
+      "date": "2025-09-01",
+      "location": "Nyingchi, China",
+      "description": "Oral Presentation (Chengyuan Wang do report in this meeting)"
+    },
+    {
+      "name": "Pixel-Based Synthesis of Medium Spatial Resolution Remote Sensing Images",
+      "event": "The 17th Annual China Student Innovation Conference",
+      "date": "2024-11-01",
+      "location": "Chengdu, China",
+      "description": "Meeting Report, Oral Presentation (Chengyuan Wang do report in this meeting)"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Remote Sensing Image Processing",
+      "institution": "Northeast Forestry University",
+      "date": "2024-09-01",
+      "role": "Assistant Teacher",
+      "description": "2024.09 - 2024.10"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Soil and Water Conversation Research",
+      "institution": "Northeast Forestry University",
+      "date": "2026-03-01",
+      "role": "Assistant Teacher",
+      "description": "2026.03 - 2026.04"
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Coupling Mechanism Between Sustainable Forest Management and Sustainable Development in Forest Areas Under the Context of Natural Forest Logging Ban",
+      "category": "Heilongjiang Natural Science Foundation (PL2025C032)",
+      "date": "2026-01 to 2028-12",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Participation, Main Declare, Under Research. Funding: RMB 100,000"
+    },
+    {
+      "name": "Forest Resources Data Annual Update Technology with Multi-source Data Collaboration",
+      "category": "National Key Research and Development Program (2023YFD2201704)",
+      "date": "2023-12 to 2027-11",
+      "url": "",
+      "description": "Participation, Main Declare, Under Research. Funding: RMB 2,800,000"
+    },
+    {
+      "name": "Mechanisms and Characterization of Coupling Forest Horizontal Spatial Structure and Spatial Resolution of Remote Sensing Images",
+      "category": "National Natural Science Foundation (32371863)",
+      "date": "2024-01 to 2027-12",
+      "url": "",
+      "description": "Participation, Under Research. Funding: RMB 500,000"
+    },
+    {
+      "name": "Hotspots and Thresholds of Eco-Efficiency of Black Soil Cultivated Land Utilization under Carbon Emission Constraints",
+      "category": "Northeast Forestry University Carbon Neutral Special Science Fund Project",
+      "date": "2024-01 to 2025-12",
+      "url": "",
+      "description": "Participation, Main Declare, Completion. Funding: RMB 300,000"
+    },
+    {
+      "name": "Evaluation of the Degree of Erosion and Productivity of Agricultural Land in Black Soil",
+      "category": "National Key Research and Development Program (2021YFD150070505)",
+      "date": "2021-12 to 2024-11",
+      "url": "",
+      "description": "Participation, Completion. Funding: RMB 800,000"
     }
   ]
 }
